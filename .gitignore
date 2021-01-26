@@ -18,3 +18,4 @@ out
 .idea/**
 **/target/**
 **/.DS_Store
+.DS_Store
